@@ -1,5 +1,5 @@
 ## scroll-animation-banao
-A shortlisting task site I created for banao technologies internship using **gsap**
+An experiment webpage done using **gsap** to create animations
 
 **firebase deployment link -** [click here](https://scroll-animation-banao.web.app/)
 
